@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\follow.cs">
+    <Files>
+      <File FileName="Assets\Scene3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scene2.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerController.cs" Line="23" Column="1" />
+      <File FileName="Assets\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\switchgun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\follow.cs" Line="22" Column="1" />
+      <File FileName="Assets\demage.cs" Line="20" Column="33" />
+      <File FileName="Assets\disappear.cs" Line="1" Column="1" />
+      <File FileName="Assets\cannon.cs" Line="22" Column="1" />
+      <File FileName="Assets\Boxlife.cs" Line="5" Column="18" />
+      <File FileName="Assets\BoxDamage.cs" Line="11" Column="3" />
+      <File FileName="Assets\Navigation.cs" Line="18" Column="15" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="171" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
